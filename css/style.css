@@ -260,7 +260,7 @@ code, pre {
 
 @keyframes slideInFromLeft {
     0% {
-        transform: translateX(-100);
+        transform: translateX(-100%);
     }
 
     100% {
@@ -270,7 +270,7 @@ code, pre {
 
 @keyframes slideInFromRight {
     0% {
-        transform: translateX(100);
+        transform: translateX(100%);
     }
 
     100% {
@@ -280,7 +280,7 @@ code, pre {
 
 @keyframes slideInFromTop {
     0% {
-        transform: translateY(-100);
+        transform: translateY(-100%);
     }
 
     100% {
@@ -290,7 +290,7 @@ code, pre {
 
 @keyframes slideInFromBottom {
     0% {
-        transform: translateY(100);
+        transform: translateY(100%);
     }
 
     100% {
